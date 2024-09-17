@@ -135,7 +135,7 @@ export function CreateGoal() {
                         <span className="text-zinc-300 text-sm font-medium leading-none">
                           5x na semana
                         </span>
-                        <span className="text-lg leading-none">🙂</span>
+                        <span className="text-lg leading-none">😎</span>
                       </RadioGroupItem>
 
                       <RadioGroupItem value="6">
@@ -151,7 +151,7 @@ export function CreateGoal() {
                         <span className="text-zinc-300 text-sm font-medium leading-none">
                           Todos os dias da semana!
                         </span>
-                        <span className="text-lg leading-none">😎</span>
+                        <span className="text-lg leading-none">⭐</span>
                       </RadioGroupItem>
                     </RadioGroup>
                   )
